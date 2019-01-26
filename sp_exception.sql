@@ -37,7 +37,7 @@ Section : 01 - Declare variables
         STD_LASTNAME              := '';    
     /*
    *****************************************************************************
-   SECTION     : 03  -  Insert a new row into the Students table having a local
+   SECTION     : 03  -  Select a new row into the Students table having a local
                         exception.
    *****************************************************************************
    */
