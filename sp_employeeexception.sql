@@ -26,7 +26,7 @@ Section : 01 - Declare variables
   BEGIN
    /*
    *****************************************************************************
-   SECTION     : 02  -  Initialize Variables and select student_id from Students
+   SECTION     : 02  -  Initialize Variables and select emp_id from Employee
                         table
    *****************************************************************************
    */
@@ -37,7 +37,7 @@ Section : 01 - Declare variables
         EMP_LASTNAME              := '';    
     /*
    *****************************************************************************
-   SECTION     : 03  -  Insert a new row into the Students table having a local
+   SECTION     : 03  -  Insert a new row into the Employee table having a local
                         exception.
    *****************************************************************************
    */
